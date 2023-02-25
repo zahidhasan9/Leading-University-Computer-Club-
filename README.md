@@ -108,3 +108,4 @@ time of need. There are several times people need a certain type of blood; they 
 in search of that particular blood type to save their loved once from certain death and illness. The
 main objective of creating this segment of this website is to help those individuals while they need
 it the most.
+![image](https://user-images.githubusercontent.com/44033232/221378454-fcf217e8-6c9c-4fc7-a3a9-a64a931745a5.png)
